@@ -1,6 +1,6 @@
 import React from "react";
 import "./styles.css";
-import homeImage from "../../../assets/images/dev.svg";
+import homeImage from "../../../assets/images/dev.png";
 import Typical from 'react-typical';
 import myResume from "../../../assets/pdf/Resume.pdf";
 
